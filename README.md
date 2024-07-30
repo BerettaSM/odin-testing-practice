@@ -1,1 +1,3 @@
-# odin-testing-practice
+# Projects: Testing Practice - The Odin Project
+
+Some of the projects for [The Odin Project](https://www.theodinproject.com/), in the javascript syllabus.
